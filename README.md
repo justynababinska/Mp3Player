@@ -1,5 +1,5 @@
 # Mp3Player
-> Java SE 9, JavaFX
+> Simple Mp3 player created with Java SE 9, JavaFX.
 
 ## Table of contents
 * [General info](#general-info)
