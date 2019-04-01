@@ -5,23 +5,19 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Status](#status)
 
 ## General info
-Application was created to improve knowladge throught the training.
+Application was created to improve knowledge through the training.
 
 ## Screenshots
 ![screnshots](./MP3Player.png)
 ![screnshots](./Menu.png)
 
 ## Technologies
-*  - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-
-## Setup
-
+* JavaSE - version 9.0.4
+* JavaFX - version 9.0.4
+* jid3lib - version 0.5.4
 
 ## Status
 Project is: _finished_
