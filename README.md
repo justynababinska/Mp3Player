@@ -13,7 +13,7 @@ Application was created to improve knowladge throught the training.
 
 ## Screenshots
 ![screnshots](./MP3Player.png)
-![screnshots](.Menu.png)
+![screnshots](./Menu.png)
 
 ## Technologies
 *  - version 1.0
